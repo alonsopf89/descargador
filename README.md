@@ -11,4 +11,4 @@ Descargador de facturas del SAT
 
 5.- Vayan al menú BD >> Configuración y escriban su RFC y su CIEC
 
-6.- Opcionalmente pueden cambiar el código fuente
+6.- Opcionalmente pueden cambiar el código fuente, si eres programador, para hacer este proyecto mejor, solicitenme hacer una branch para que nos beneficiemos todos
