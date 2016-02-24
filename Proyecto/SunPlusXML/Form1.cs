@@ -1541,7 +1541,6 @@ namespace SunPlusXML
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            modoGlobal = 2;//borrar
             Timer tmrSegundosDeVida = new Timer();
             if(modoGlobal==1)
             {

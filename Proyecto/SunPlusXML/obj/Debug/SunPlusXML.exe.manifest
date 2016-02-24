@@ -102,24 +102,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SunPlusXML.exe" size="137664">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SunPlusXML.exe" size="97728">
       <assemblyIdentity name="SunPlusXML" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CJV+YMcVAlTnq5b8sN5OGBucLhe0+/BcDb0HOZ0XVgA=</dsig:DigestValue>
+        <dsig:DigestValue>6V/dE7EJO5LiMN3UlqGeExMs6D+lIfkTAdQfgQv9sBI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="SunPlusXML.exe.config" size="2847">
+  <file name="SunPlusXML.exe.config" size="2968">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>1g6UozixICF5dJhRnSWuSpIPyIfwcdEBn7Maga5mScM=</dsig:DigestValue>
+      <dsig:DigestValue>G7P/JBV7IempYzSIcnIGVlU4jVe0C6JF5eNQFm3fblI=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

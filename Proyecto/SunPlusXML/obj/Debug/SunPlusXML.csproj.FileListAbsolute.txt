@@ -28,3 +28,26 @@ C:\Users\Cuacua\Documents\Visual Studio 2013\Projects\SunPlusXML\SunPlusXML\obj\
 C:\Users\Cuacua\Documents\Visual Studio 2013\Projects\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.application
 C:\Users\Cuacua\Documents\Visual Studio 2013\Projects\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.exe
 C:\Users\Cuacua\Documents\Visual Studio 2013\Projects\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.pdb
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\bin\Debug\SunPlusXML.exe.config
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\bin\Debug\SunPlusXML.exe.manifest
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\bin\Debug\SunPlusXML.application
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\bin\Debug\SunPlusXML.exe
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\bin\Debug\SunPlusXML.pdb
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\bin\Debug\EO.WebBrowser.dll
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\bin\Debug\EO.WebBrowser.Wpf.dll
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\bin\Debug\EO.WebBrowser.xml
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\bin\Debug\EO.WebBrowser.Wpf.xml
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\bin\Debug\EPPlus.xml
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\bin\Debug\HtmlAgilityPack.pdb
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\bin\Debug\HtmlAgilityPack.xml
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.csprojResolveAssemblyReference.cache
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.csproj.ResolveComReference.cache
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.Form1.resources
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.Properties.Resources.resources
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.settings.resources
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.sunsettings.resources
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.csproj.GenerateResource.Cache
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.exe.manifest
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.application
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.exe
+C:\SunplusXML\SunplusXML\SunPlusXML\SunPlusXML\obj\Debug\SunPlusXML.pdb
